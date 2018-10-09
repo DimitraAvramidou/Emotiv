@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ioanna.menudemo.MenuDemo"
+    tools:ignore="ExtraText">
+
+    <!--<android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"-->
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="101"
+        android:title="@string/android_settings"
+        />
+    <item
+        android:id="@+id/frequency"
+        android:numericShortcut="@string/frequency"
+        android:orderInCategory="101"
+        android:title="@string/frequency"
+        android:inputType="text"/>
+
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="101"
+        android:title="@string/exit" />
+
+
+</menu>

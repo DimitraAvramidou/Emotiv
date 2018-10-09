@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="button2">on</string>
+    <string name="button">Exit</string>
+    <string name="play_sound">Play</string>
+    <string name="textview">TextView</string>
+    <string name="largetext">LargeText</string>
+    <string name="Publish">Publish</string>
+    <string name="frequency">Frequency</string>
+    <string name="exit">Exit</string>
+    <string name="android_settings">Android Settings</string>
+    <string name="set">Set</string>
+    <string name="ip">IP</string>
+    <string name="port">Port</string>
+    <string name="buttonw">Button</string>
+    <string name="connect">Connect</string>
+    <string name="message">Message</string>
+    <string name="welcome">Welcome!</string>
+
+</resources>
